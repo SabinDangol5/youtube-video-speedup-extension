@@ -1,0 +1,30 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #1e1e1e;
+  color: #fff;
+  padding: 15px;
+  width: 250px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+}
+
+h2 {
+  color: white;
+  margin: 0;
+  font-size: 20px;
+}
+
+input[type="range"] {
+  width: 100%;
+}
+
+#speedValue {
+  font-weight: bold;
+  margin-top: 5px;
+  font-size: 16px;
+}
