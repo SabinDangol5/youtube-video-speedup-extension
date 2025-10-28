@@ -13,3 +13,10 @@ A simple Chrome extension that lets you control YouTube video playback speed fro
 1. Download the ZIP from this repo or clone it:
    ```bash
    git clone https://github.com/Sabindangol5/youtube-video-speedup-extension.git
+
+## 🖼️ Screenshots
+### Extension in Action
+![YouTube Speed Control](assets/screenshots/working-demo.png)
+
+
+
